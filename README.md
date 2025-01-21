@@ -2,7 +2,7 @@
 
 **DoctorCare** é um site criado junto da Rocketseat, focado em oferecer serviços de **assistência médica** de maneira intuitiva e eficiente. Este projeto foi uma ótima oportunidade para praticar e aprimorar habilidades em desenvolvimento web.
 
-![DoctorCare - Página Inicial](./images/pagina-inicial.jpg)
+![DoctorCare - Página Inicial](./assets/imagem-tela-inicial.png)
 
 ## Tecnologias Usadas
 
