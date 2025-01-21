@@ -10,14 +10,6 @@
 - **CSS**: Estilização do layout e responsividade para dispositivos móveis.
 - **JavaScript**: Interatividade e dinamismo na interface.
 
-## Aprendizados
-
-Durante o desenvolvimento deste projeto, aprendi os seguintes conceitos:
-
-- **HTML**: Criação de uma estrutura sólida de página com tags semânticas.
-- **CSS**: Estilização de layout com ênfase em responsividade e boas práticas de design.
-- **JavaScript**: Implementação de interações e funcionalidades dinâmicas.
-
 ## Funcionalidades
 
 - **Design Responsivo**: O site é totalmente funcional em dispositivos móveis e desktops.
